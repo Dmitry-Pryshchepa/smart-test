@@ -1,11 +1,11 @@
-##LogParser
-#Description
+# LogParser
+## Description
 Test task for Smart Pension
 
-#How to install
+# How to install
 Requirements: PHP7.4
 
-#Installation, running:
+## Installation, running:
 Clone this repo:
 ```
 $ git clone https://github.com/Dmitry-Pryshchepa/smart-test.git
